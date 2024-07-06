@@ -45,3 +45,5 @@ https://sites.google.com/view/kunx/home
 
 [Quantum_Statistics_Theory_Group_SRC_summer_2024.pdf](https://github.com/user-attachments/files/16115070/Quantum_Statistics_Theory_Group_SRC_summer_2024.pdf)
 
+## Note
+If you need lecture note for Day 2, please email me. chadsong123@gmail.com
